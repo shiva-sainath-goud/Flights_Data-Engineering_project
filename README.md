@@ -102,20 +102,23 @@ License: MIT
 
 ## 6. Repository Structure
 
-├── dags/
-│ ├── bronze_ingest.py
-│ ├── silver_transform.py
-│ └── gold_aggregate.py
-├── scripts/
-│ ├── bronze_ingest.py
-│ ├── silver_transform.py
-│ └── gold_aggregate.py
-├── data/
-│ └── sample datasets (placeholder)
-├── docker-compose.yml
-├── requirements.txt
-├── .gitignore
-└── README.md
+dags
+– bronze_ingest.py
+– silver_transform.py
+– gold_aggregate.py
+
+scripts
+– bronze_ingest.py
+– silver_transform.py
+– gold_aggregate.py
+
+data
+– Sample datasets (placeholder)
+
+docker-compose.yml
+requirements.txt
+.gitignore
+README.md
 
 ---
 
