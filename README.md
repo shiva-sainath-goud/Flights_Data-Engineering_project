@@ -107,9 +107,6 @@ Copy code
 ├── .gitignore
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 6. Prerequisites
