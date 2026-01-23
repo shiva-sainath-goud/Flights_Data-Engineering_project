@@ -230,13 +230,3 @@ Refer to the LICENSE file for more information.
 Created by shiva-sainath-goud.
 For questions, improvements, or collaboration opportunities, please open an Issue or Pull Request on GitHub.
 
----
-
-If you want, I can now:
-
-* Convert this into a **resume-optimized GitHub README**
-* Add a **professional project summary for LinkedIn**
-* Create a **portfolio-grade architecture PNG**
-* Optimize it for **data engineer recruiter keywords**
-
-Just tell me.
